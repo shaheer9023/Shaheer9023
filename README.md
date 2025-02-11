@@ -1,3 +1,4 @@
+![logo](https://github.com/shaheer9023/Shaheer9023/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Shaheer Ahmad</h1>
 <h3 align="center">Becoming Ai Agent working on Generative Ai</h3>
 
