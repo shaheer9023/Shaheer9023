@@ -22,3 +22,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaheer9023&show_icons=true&locale=en" alt="shaheer9023" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheer9023&" alt="shaheer9023" /></p>
+
+## 🏢 Featured Project: Professional HRMS
+
+[![HRMS Demo](https://img.shields.io/badge/🏢%20HRMS%20Demo-Live%20Preview-blue)](https://github.com/shaheer9023/Employee_Management_System_)
+
+Professional Human Resource Management System built with FastAPI.
+
+💰 Production version available | 📧 Contact: shaheerahmad9023@gmail.com
