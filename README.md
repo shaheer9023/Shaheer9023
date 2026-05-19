@@ -1,183 +1,288 @@
+<!-- ============================================================ -->
+<!--           SHAHEER AHMAD — PORTFOLIO GITHUB PROFILE          -->
+<!-- ============================================================ -->
+
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER BANNER                  -->
-<!-- ══════════════════════════════════════════════════════════ -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,50:185a9d,100:43cea2&height=230&section=header&text=Shaheer%20Ahmad&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=🤖%20Certified%20Agentic%20AI%20Developer%20%7C%20Builder%20of%20Autonomous%20Systems&descColor=ffffff&descAlignY=60&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SHAHEER%20AHMAD&fontSize=55&fontColor=00f5ff&fontAlignY=38&desc=AI%20Agent%20Developer%20%7C%20Building%20the%20Future&descColor=a78bfa&descAlignY=58&animation=fadeIn)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=185A9D&center=true&vCenter=true&width=700&lines=🚀+Building+AI+Agents+that+Think+%26+Act+Autonomously;🎓+BS+Artificial+Intelligence+%40+UMT+(2023–2027);🏅+PIAIC+Certified+Agentic+AI+Developer+Lvl+1+%26+2;🛠️+FastAPI+·+n8n+·+LangChain+·+OpenAI+·+Python;💡+Turning+Ideas+Into+Intelligent+Systems+Since+2024)](https://git.io/typing-svg)
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=600&lines=⚡+AI+Agent+Developer+%7C+Islamabad%2C+PK;🤖+Building+Autonomous+AI+Systems;🧠+Exploring+LLMs+%26+Multi-Agent+Pipelines;🚀+FastAPI+%7C+Python+%7C+TypeScript;💡+Turning+Ideas+Into+Intelligent+Agents" alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaheer9023/)
+[![GitHub](https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaheer9023)
+[![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaheerahmad9023@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=shaheer9023&style=for-the-badge&color=43cea2&label=PROFILE+VIEWS)](https://github.com/shaheer9023)
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                     ABOUT ME SECTION                       -->
-<!-- ══════════════════════════════════════════════════════════ -->
+## 👨‍💻 About Me
 
-<img align="right" alt="AI Coding GIF" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-
-### 🧬 `whoami`
+<img align="right" alt="AI Coding" width="340" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 ```yaml
-name        : Shaheer Ahmad
-title       : AI Agent Developer
-location    : Islamabad, Pakistan 🇵🇰
-focus       : Autonomous AI Agents & LLM Systems
-learning    : Multi-Agent Orchestration, RAG, LangGraph
-available   : Open to Collaborations & Opportunities
-contact     : shaheerahmad9023@gmail.com
+👤 Name        : Shaheer Ahmad
+🎯 Title       : Certified Agentic AI Developer
+📍 Location    : Lahore, Punjab, Pakistan 🇵🇰
+🎓 Education   : BS Artificial Intelligence @ UMT (2023–2027)
+                 6th Semester · GPA in Progress
+🏛️ Institute   : PIAIC — Cloud Generative AI Engineering
+🤝 Status      : Open to Collaborations & Internships
+📧 Contact     : shaheerahmad9023@gmail.com
+💼 LinkedIn    : linkedin.com/in/shaheer9023
 ```
 
-### 🎯 Mission
-> *"Engineering intelligent systems that don't just respond — they think, plan, and act autonomously."*
+### 💬 My Mission
+> *"I don't just write code — I build systems that research, decide, and act on their own. My goal is to make autonomous AI agents accessible for everyone."*
 
 <br clear="right"/>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   TECH STACK SECTION                       -->
-<!-- ══════════════════════════════════════════════════════════ -->
+## 🏅 Certifications & Achievements
 
 <div align="center">
 
-## 🛸 Tech Arsenal
+| 🥇 Certification | 🏛️ Issuing Body | 📅 Date | 🔑 Credential |
+|---|---|---|---|
+| **Agentic AI Professional — Level 2** | Panaversity / PIAIC 🇵🇰 | Sep 2025 | ID: 4734 |
+| **Agentic AI Developer — Level 1** | Panaversity / PIAIC 🇵🇰 | Jul 2025 | ID: 3013 |
+| **Cloud Generative AI Engineering** | PIAIC — Presidential Initiative | 2024–2025 | National Program |
+| **Docker for AI & Data Science** | Codanics — Dr. M. Aammar Tufail | 2024 | Completed |
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00f5ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00f5ff)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00f5ff)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00f5ff)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00f5ff)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00f5ff)
+</div>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=a78bfa)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=a78bfa)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=a78bfa)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=a78bfa)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=a78bfa)
-![VS Code](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=a78bfa)
+> 🌟 Both certifications earned under **Pakistan's Presidential Initiative for AI & Computing** — a nation-building program launched by the President of Pakistan.
+
+---
+
+## 🛸 Tech Stack & Tools
+
+<div align="center">
+
+**🤖 AI & Agents**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_Llama-F54E27?style=for-the-badge&logo=meta&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+**⚙️ Automation & Workflow**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily_API-FF6B35?style=for-the-badge&logo=searchengine&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Airtop](https://img.shields.io/badge/Airtop-5B5EA6?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+**🔧 Backend & Database**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**💻 Languages & Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  AI / AGENT FOCUS SECTION                  -->
-<!-- ══════════════════════════════════════════════════════════ -->
+## 🚀 Featured Projects
 
-## 🤖 Currently Building With
+> *12+ real-world AI systems built and shipped. Here are the highlights:*
+
+---
+
+### 🤖 01 — LinkedIn Autopilot *(Python + OpenAI Agents SDK)*
+> **Zero-cost autonomous content pipeline that researches, writes, designs & publishes — hands-free.**
+
+```
+🧠 AI Stack   →  OpenAI Agents SDK · Groq Llama 3.3 · Pollinations AI · Tavily API
+🔗 Workflow   →  Input Topic → AI Research → Content Write → Image Gen → Auto-Publish
+💡 Highlight  →  100% free · Complete data privacy · No subscriptions · Full developer control
+📌 Category   →  Agentic AI · Content Automation · Social Media
+```
+
+---
+
+### 🌐 02 — BrowseIQ *(Autonomous Web Agent)*
+> **A fully autonomous AI web agent that browses the internet with NO human interaction needed.**
+
+```
+🧠 AI Stack   →  n8n · Airtop (Cloud Browser) · Google Gemini 2.0 Flash · LangChain
+⚡ Features   →  Opens websites · Searches · Clicks buttons · Fills forms · Extracts data
+💡 Example    →  "Find best laptop deals on BestBuy" → Opens · Searches → Returns structured data
+📌 Category   →  Browser Automation · Agentic AI · Web Scraping
+```
+
+---
+
+### 🎙️ 03 — VoxMail AI Orchestrator *(Voice → Email Agent)*
+> **Speak in Urdu → Get a professionally drafted English email sent automatically.**
+
+```
+🧠 AI Stack   →  ElevenLabs (Voice) · n8n · OpenAI (Email Drafting)
+🔗 Workflow   →  Urdu Voice Input → AI Transcription → Email Draft → Verify → Send
+💡 Highlight  →  Bridges language barriers · Humanized AI writing · Auto-delivery
+📌 Category   →  Voice AI · Email Automation · Multilingual Agent
+```
+
+---
+
+### 📊 04 — AI Data Analysis System *(RAG + Vector Memory)*
+> **Chat with your data — ask questions, get smart instant insights backed by long-term memory.**
+
+```
+🧠 AI Stack   →  Google Gemini (Chat + Embeddings) · Pinecone Vector DB · n8n
+🔗 Workflow   →  File Ingestion → Embeddings → Vector Store → Conversational AI Query
+💡 Highlight  →  Long-term memory via Pinecone · Contextual data retrieval
+📌 Category   →  RAG · Vector Databases · Conversational AI
+```
+
+---
+
+### 💼 05 — AI Lead Nurturing System *(Sales Automation)*
+> **Paste a website URL → AI researches the company → Writes & sends personalized outreach email.**
+
+```
+🧠 AI Stack   →  n8n · Groq (Llama 3.3) · Google Sheets · Gmail API
+🔗 Workflow   →  URL Input → Company Research → Email Draft → Auto-Send via Gmail
+💡 Highlight  →  Zero manual research · Personalized at scale · Sales automation
+📌 Category   →  Lead Generation · Sales AI · Workflow Automation
+```
+
+---
+
+### 🍽️ 06 — ChatServe *(WhatsApp Restaurant Bot)*
+> **Intelligent restaurant assistant — handles orders, menus & payments directly on WhatsApp.**
+
+```
+🧠 AI Stack   →  n8n · LLM · WhatsApp Business API
+🔗 Features   →  Multilingual responses · Smart menu retrieval · Payment handling · Zero manual work
+💡 Highlight  →  Built for local businesses · Fully automated customer engagement
+📌 Category   →  Chatbot · Business Automation · WhatsApp AI
+```
+
+---
+
+### 📩 07 — AI Email Automation Agent
+> **Classifies, routes, and auto-replies to Gmail messages using AI — zero manual effort.**
+
+```
+🧠 AI Stack   →  N8N · OpenAI
+🔗 Features   →  Classify incoming emails · Smart routing · Auto-response generation · Instant send
+📌 Category   →  Email AI · Productivity Automation
+```
+
+---
+
+### 🏢 08 — Professional HRMS *(Enterprise-Grade)*
+> **Production-ready Human Resource Management System — built from scratch with modern stack.**
+
+```
+🔧 Stack      →  FastAPI · Python · MySQL · SQLAlchemy · JWT Auth · TailwindCSS · n8n
+✅ Modules    →  Employee CRUD · Attendance (Check-in/out · Late/Early · Half-day)
+               Leave Management · Payroll · Automated Email Notifications (n8n)
+💼 Status     →  Production Version Available · Contact for Enterprise Licensing
+📧 Inquiries  →  shaheerahmad9023@gmail.com
+```
+
+[![View HRMS](https://img.shields.io/badge/🏢%20View%20HRMS%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaheer9023/Employee_Management_System_)
+
+---
+
+### 🗣️ 09 — AI Urdu Chatbot *(OpenAI Agents SDK)*
+> **Always replies in Urdu, with streaming responses and built-in conversation memory.**
+
+```
+🧠 AI Stack   →  OpenAI Agents SDK · Custom Memory Handling
+💡 Features   →  Urdu-only responses · Real-time streaming · Remembers past conversations
+📌 Category   →  Conversational AI · Multilingual · Memory-Enabled
+```
+
+---
+
+### 📦 10 — AI Inventory Management System
+> **First AI agent project — automated inventory tracking with AI + Google Sheets integration.**
+
+```
+🧠 AI Stack   →  N8N · OpenAI · Google Sheets
+💡 Features   →  Automates tracking · Memory integration · Real-time CRUD + Reports
+📌 Category   →  Business Automation · Agentic AI
+```
+
+---
+
+## 🎓 Education
 
 <div align="center">
 
-| Domain | Tools & Frameworks |
-|---|---|
-| 🧠 **LLM Orchestration** | LangChain · LangGraph · OpenAI API · Anthropic Claude |
-| 🤖 **Agent Frameworks** | AutoGen · CrewAI · Custom Agent Loops |
-| ⚡ **Backend APIs** | FastAPI · REST · WebSockets · Async Python |
-| 🗄️ **Vector & Memory** | Pinecone · ChromaDB · FAISS · Redis |
-| 🚀 **Deployment** | Docker · GitHub Actions · Railway · Render |
+| 🏛️ Institution | 📚 Degree | 📅 Duration | 🔬 Focus |
+|---|---|---|---|
+| **University of Management & Technology (UMT)** | BS Artificial Intelligence | Oct 2023 – Oct 2027 | AI, ML, Data Science |
+| **PIAIC — Presidential Initiative** | Cloud Generative AI Engineering | 2024 – Present | LLMs, Agentic AI, Cloud |
 
 </div>
 
 ---
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS SECTION                     -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
 
 ## 📊 GitHub Intelligence
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaheer9023&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheer9023&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_color=30363d&hide_border=false"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheer9023&theme=tokyonight&background=0d1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&border=30363d&sideLabels=c9d1d9&dates=8b949e" />
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--               ACTIVITY GRAPH                               -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-## 📈 Commit Activity
-
-[![Shaheer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaheer9023&bg_color=0d1117&color=00f5ff&line=a78bfa&point=00f5ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  FEATURED PROJECT SECTION                  -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🏗️ Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/shaheer9023/Employee_Management_System_">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shaheer9023&repo=Employee_Management_System_&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&border_color=30363d" />
-</a>
-
-</div>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=shaheer9023&show_icons=true&theme=vue&bg_color=f0fdf4&title_color=185a9d&icon_color=43cea2&text_color=1e3a5f&border_color=bbf7d0&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheer9023&layout=compact&theme=vue&bg_color=f0fdf4&title_color=185a9d&text_color=1e3a5f&border_color=bbf7d0"/>
 
 <br>
 
-### 🏢 Professional HRMS — Human Resource Management System
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheer9023&background=f0fdf4&ring=43cea2&fire=f97316&currStreakLabel=185a9d&border=bbf7d0&sideLabels=1e3a5f&dates=64748b&currStreakNum=43cea2&sideNums=185a9d"/>
 
-```
-🔧 Stack   →  FastAPI · Python · SQLAlchemy · PostgreSQL · Docker
-📦 Type    →  Production-Grade Enterprise Application  
-✅ Features →  Employee Management · Payroll · Attendance · Analytics
-💼 Status  →  Production Version Available
-📧 Contact →  shaheerahmad9023@gmail.com
-```
-
-> Built with scalability, security, and real-world HR workflows in mind.
-> Production deployment available on request.
+</div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                     CONNECT SECTION                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
+## 📈 Contribution Activity
 
 <div align="center">
 
-## 🌐 Connect With Me
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaheer9023&bg_color=f0fdf4&color=185a9d&line=43cea2&point=f97316&area=true&area_color=bbf7d0&hide_border=false&border_color=bbf7d0)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0D1117)](https://linkedin.com/in/shaheer9023/)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0D1117)](https://github.com/shaheer9023)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=a78bfa&labelColor=0D1117)](https://instagram.com/s.h.a.h.e.e.e.r)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=a78bfa&labelColor=0D1117)](mailto:shaheerahmad9023@gmail.com)
+</div>
+
+---
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaheer9023/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaheer9023)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s.h.a.h.e.e.e.r)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaheerahmad9023@gmail.com)
 
 <br>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=shaheer9023&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)
+> 💼 **Available for:** Freelance Projects · AI Agent Development · Automation Consulting · Internships
+>
+> 🤝 **Open to:** Collaborations · Open Source · Research · Pakistan Tech Community
+
+<br>
+
+*"The best way to predict the future is to build it — autonomously."*
 
 </div>
 
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                       FOOTER WAVE                          -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-*"The best way to predict the future is to build it — intelligently."*
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,50:185a9d,100:43cea2&height=130&section=footer)
