@@ -243,10 +243,15 @@
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=shaheer9023&show_icons=true&theme=vue&bg_color=f0fdf4&title_color=185a9d&icon_color=43cea2&text_color=1e3a5f&border_color=bbf7d0&include_all_commits=true&count_private=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheer9023&layout=compact&theme=vue&bg_color=f0fdf4&title_color=185a9d&text_color=1e3a5f&border_color=bbf7d0"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaheer9023&theme=vue" height="175em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaheer9023&theme=vue" height="175em"/>
 
-<br>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaheer9023&theme=vue&utcOffset=5" height="175em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaheer9023&theme=vue" height="175em"/>
+
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheer9023&background=f0fdf4&ring=43cea2&fire=f97316&currStreakLabel=185a9d&border=bbf7d0&sideLabels=1e3a5f&dates=64748b&currStreakNum=43cea2&sideNums=185a9d"/>
 
