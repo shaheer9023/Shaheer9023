@@ -253,7 +253,7 @@
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheer9023&background=f0fdf4&ring=43cea2&fire=f97316&currStreakLabel=185a9d&border=bbf7d0&sideLabels=1e3a5f&dates=64748b&currStreakNum=43cea2&sideNums=185a9d"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheer9023&background=f0fdf4&ring=43cea2&fire=f97316&currStreakLabel=185a9d&border=bbf7d0&sideLabels=1e3a5f&dates=64748b&currStreakNum=43cea2&sideNums=185a9d&v=4"/>
 
 </div>
 
@@ -275,7 +275,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaheer9023/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaheer9023)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s.h.a.h.e.e.e.r)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaheerahmad9023@gmail.com)
 
 <br>
