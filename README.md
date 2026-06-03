@@ -253,7 +253,7 @@
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=shaheer9023&background=f0fdf4&ring=43cea2&fire=f97316&currStreakLabel=185a9d&border=bbf7d0&sideLabels=1e3a5f&dates=64748b&currStreakNum=43cea2&sideNums=185a9d" alt="GitHub Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheer9023&background=f0fdf4&ring=43cea2&fire=f97316&currStreakLabel=185a9d&border=bbf7d0&sideLabels=1e3a5f&dates=64748b&currStreakNum=43cea2&sideNums=185a9d&v=4"/>
 
 </div>
 
