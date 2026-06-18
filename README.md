@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,50:185a9d,100:43cea2&height=230&section=header&text=Shaheer%20Ahmad&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=🤖%20Certified%20Agentic%20AI%20Developer%20%7C%20Builder%20of%20Autonomous%20Systems&descColor=ffffff&descAlignY=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=260&section=header&text=Shaheer%20Ahmad&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=🤖%20Certified%20Agentic%20AI%20Developer%20%7C%20Builder%20of%20Autonomous%20Systems&descColor=43cea2&descSize=18&descAlignY=58&animation=twinkling&stroke=43cea2&strokeWidth=2)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=🚀+Building+AI+Agents+that+Think+%26+Act+Autonomously;🎓+BS+Artificial+Intelligence+%40+UMT+(2023–2027);🏅+PIAIC+Certified+Agentic+AI+Developer+Lvl+1+%26+2;🛠️+FastAPI+·+n8n+·+LangChain+·+OpenAI+·+Python;💡+Turning+Ideas+Into+Intelligent+Systems+Since+2024)](https://git.io/typing-svg)
 
@@ -316,4 +316,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,50:185a9d,100:43cea2&height=130&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=130&section=footer&animation=twinkling&stroke=43cea2&strokeWidth=2)
