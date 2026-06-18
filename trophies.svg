@@ -1,0 +1,114 @@
+<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f0c040"/>
+      <stop offset="100%" style="stop-color:#c9a96e"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="200" rx="12" fill="url(#bg)" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Title -->
+  <text x="430" y="28" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#8b949e" letter-spacing="3">SKILL TROPHIES</text>
+  <line x1="60" y1="36" x2="340" y2="36" stroke="#30363d" stroke-width="1"/>
+  <line x1="520" y1="36" x2="800" y2="36" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Trophy 1: n8n Automation -->
+  <g transform="translate(45, 55)">
+    <text x="55" y="28" text-anchor="middle" font-size="32" filter="url(#glow)">🏆</text>
+    <text x="55" y="58" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" font-weight="700" fill="url(#gold)">n8n Expert</text>
+    <text x="55" y="73" text-anchor="middle" font-family="Segoe UI, Arial" font-size="9" fill="#8b949e">Workflow Automation</text>
+    <rect x="5" y="85" width="100" height="3" rx="2" fill="#30363d"/>
+    <rect x="5" y="85" width="100" height="3" rx="2" fill="url(#gold)" opacity="0.9"/>
+  </g>
+
+  <!-- Trophy 2: Agentic AI -->
+  <g transform="translate(180, 55)">
+    <text x="55" y="28" text-anchor="middle" font-size="32" filter="url(#glow)">🥇</text>
+    <text x="55" y="58" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" font-weight="700" fill="url(#gold)">Agentic AI</text>
+    <text x="55" y="73" text-anchor="middle" font-family="Segoe UI, Arial" font-size="9" fill="#8b949e">PIAIC Certified Lvl 2</text>
+    <rect x="5" y="85" width="100" height="3" rx="2" fill="#30363d"/>
+    <rect x="5" y="85" width="100" height="3" rx="2" fill="url(#gold)" opacity="0.9"/>
+  </g>
+
+  <!-- Trophy 3: Vision AI -->
+  <g transform="translate(315, 55)">
+    <text x="55" y="28" text-anchor="middle" font-size="32" filter="url(#glow)">🔭</text>
+    <text x="55" y="58" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" font-weight="700" fill="url(#gold)">Vision AI</text>
+    <text x="55" y="73" text-anchor="middle" font-family="Segoe UI, Arial" font-size="9" fill="#8b949e">Gemini · GPT-4o</text>
+    <rect x="5" y="85" width="100" height="3" rx="2" fill="#30363d"/>
+    <rect x="5" y="85" width="100" height="3" rx="2" fill="url(#gold)" opacity="0.9"/>
+  </g>
+
+  <!-- Trophy 4: FastAPI -->
+  <g transform="translate(450, 55)">
+    <text x="55" y="28" text-anchor="middle" font-size="32" filter="url(#glow)">⚡</text>
+    <text x="55" y="58" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" font-weight="700" fill="url(#gold)">FastAPI Pro</text>
+    <text x="55" y="73" text-anchor="middle" font-family="Segoe UI, Arial" font-size="9" fill="#8b949e">Python Backend</text>
+    <rect x="5" y="85" width="100" height="3" rx="2" fill="#30363d"/>
+    <rect x="5" y="85" width="100" height="3" rx="2" fill="url(#gold)" opacity="0.9"/>
+  </g>
+
+  <!-- Trophy 5: LangChain -->
+  <g transform="translate(585, 55)">
+    <text x="55" y="28" text-anchor="middle" font-size="32" filter="url(#glow)">🔗</text>
+    <text x="55" y="58" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" font-weight="700" fill="url(#gold)">LangChain</text>
+    <text x="55" y="73" text-anchor="middle" font-family="Segoe UI, Arial" font-size="9" fill="#8b949e">RAG · Memory · Tools</text>
+    <rect x="5" y="85" width="100" height="3" rx="2" fill="#30363d"/>
+    <rect x="5" y="85" width="100" height="3" rx="2" fill="url(#gold)" opacity="0.9"/>
+  </g>
+
+  <!-- Trophy 6: Multilingual AI -->
+  <g transform="translate(720, 55)">
+    <text x="55" y="28" text-anchor="middle" font-size="32" filter="url(#glow)">🌍</text>
+    <text x="55" y="58" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" font-weight="700" fill="url(#gold)">Multilingual AI</text>
+    <text x="55" y="73" text-anchor="middle" font-family="Segoe UI, Arial" font-size="9" fill="#8b949e">EN · GR · BG · UR</text>
+    <rect x="5" y="85" width="100" height="3" rx="2" fill="#30363d"/>
+    <rect x="5" y="85" width="100" height="3" rx="2" fill="url(#gold)" opacity="0.9"/>
+  </g>
+
+  <!-- Bottom row -->
+  <!-- Trophy 7: Groq -->
+  <g transform="translate(112, 148)">
+    <text x="55" y="22" text-anchor="middle" font-size="26">🚀</text>
+    <text x="55" y="46" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" font-weight="700" fill="#c9a96e">Groq Builder</text>
+    <text x="55" y="59" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#8b949e">Llama 3.3 · Ultra-Fast</text>
+  </g>
+
+  <!-- Trophy 8: Vector DB -->
+  <g transform="translate(247, 148)">
+    <text x="55" y="22" text-anchor="middle" font-size="26">🧠</text>
+    <text x="55" y="46" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" font-weight="700" fill="#c9a96e">Vector Memory</text>
+    <text x="55" y="59" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#8b949e">Pinecone · RAG</text>
+  </g>
+
+  <!-- Trophy 9: Claude Code -->
+  <g transform="translate(382, 148)">
+    <text x="55" y="22" text-anchor="middle" font-size="26">🤖</text>
+    <text x="55" y="46" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" font-weight="700" fill="#c9a96e">Claude Code</text>
+    <text x="55" y="59" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#8b949e">Anthropic · Agentic Dev</text>
+  </g>
+
+  <!-- Trophy 10: WhatsApp Bots -->
+  <g transform="translate(517, 148)">
+    <text x="55" y="22" text-anchor="middle" font-size="26">💬</text>
+    <text x="55" y="46" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" font-weight="700" fill="#c9a96e">Bot Builder</text>
+    <text x="55" y="59" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#8b949e">WhatsApp · Telegram</text>
+  </g>
+
+  <!-- Trophy 11: OpenCode -->
+  <g transform="translate(652, 148)">
+    <text x="55" y="22" text-anchor="middle" font-size="26">💻</text>
+    <text x="55" y="46" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" font-weight="700" fill="#c9a96e">OpenCode</text>
+    <text x="55" y="59" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#8b949e">Terminal AI Agent</text>
+  </g>
+</svg>
