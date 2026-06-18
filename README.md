@@ -6,7 +6,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,50:185a9d,100:43cea2&height=230&section=header&text=Shaheer%20Ahmad&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=🤖%20Certified%20Agentic%20AI%20Developer%20%7C%20Builder%20of%20Autonomous%20Systems&descColor=ffffff&descAlignY=60&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=185A9D&center=true&vCenter=true&width=700&lines=🚀+Building+AI+Agents+that+Think+%26+Act+Autonomously;🎓+BS+Artificial+Intelligence+%40+UMT+(2023–2027);🏅+PIAIC+Certified+Agentic+AI+Developer+Lvl+1+%26+2;🛠️+FastAPI+·+n8n+·+LangChain+·+OpenAI+·+Python;💡+Turning+Ideas+Into+Intelligent+Systems+Since+2024)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=🚀+Building+AI+Agents+that+Think+%26+Act+Autonomously;🎓+BS+Artificial+Intelligence+%40+UMT+(2023–2027);🏅+PIAIC+Certified+Agentic+AI+Developer+Lvl+1+%26+2;🛠️+FastAPI+·+n8n+·+LangChain+·+OpenAI+·+Python;💡+Turning+Ideas+Into+Intelligent+Systems+Since+2024)](https://git.io/typing-svg)
 
 <br>
 
@@ -75,6 +75,8 @@
 **⚙️ Automation & Workflow**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=terminal&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
 ![Tavily](https://img.shields.io/badge/Tavily_API-FF6B35?style=for-the-badge&logo=searchengine&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
@@ -102,11 +104,26 @@
 
 ## 🚀 Featured Projects
 
-> *12+ real-world AI systems built and shipped. Here are the highlights:*
+> *13+ real-world AI systems built and shipped. Here are the highlights:*
 
 ---
 
-### 🤖 01 — LinkedIn Autopilot *(Python + OpenAI Agents SDK)*
+### 🏨 01 — Sofia — Hotel AI Front-Desk Agent *(n8n + Gemini Vision + Google Sheets)*
+> **Production-grade multilingual AI receptionist that handles room bookings end-to-end and verifies payments using Vision AI — fully autonomous.**
+
+```
+🧠 AI Stack   →  n8n · Google Gemini 2.0 Flash (Vision) · Groq Llama 3.3 70B · Google Sheets API
+🌍 Languages  →  Auto-detects & responds in English · Greek (Ελληνικά) · Bulgarian (Български)
+🔗 Workflow   →  Guest Chats → Live Room Lookup → Booking Collection → Vision AI Receipt Verify → Sheet Update
+💡 Features   →  14-room live database · Real-time availability update · Payment receipt OCR verification
+               Conversation memory · Multilingual persona · Zero hallucination (data-grounded)
+🏆 Context    →  Built as a client POC — reviewed and approved for production development
+📌 Category   →  Agentic AI · Hotel Automation · Vision AI · n8n · Multilingual
+```
+
+---
+
+### 🤖 02 — LinkedIn Autopilot *(Python + OpenAI Agents SDK)*
 > **Zero-cost autonomous content pipeline that researches, writes, designs & publishes — hands-free.**
 
 ```
@@ -118,7 +135,7 @@
 
 ---
 
-### 🌐 02 — BrowseIQ *(Autonomous Web Agent)*
+### 🌐 03 — BrowseIQ *(Autonomous Web Agent)*
 > **A fully autonomous AI web agent that browses the internet with NO human interaction needed.**
 
 ```
@@ -130,7 +147,7 @@
 
 ---
 
-### 🎙️ 03 — VoxMail AI Orchestrator *(Voice → Email Agent)*
+### 🎙️ 04 — VoxMail AI Orchestrator *(Voice → Email Agent)*
 > **Speak in Urdu → Get a professionally drafted English email sent automatically.**
 
 ```
@@ -142,7 +159,7 @@
 
 ---
 
-### 📊 04 — AI Data Analysis System *(RAG + Vector Memory)*
+### 📊 05 — AI Data Analysis System *(RAG + Vector Memory)*
 > **Chat with your data — ask questions, get smart instant insights backed by long-term memory.**
 
 ```
@@ -154,7 +171,7 @@
 
 ---
 
-### 💼 05 — AI Lead Nurturing System *(Sales Automation)*
+### 💼 06 — AI Lead Nurturing System *(Sales Automation)*
 > **Paste a website URL → AI researches the company → Writes & sends personalized outreach email.**
 
 ```
@@ -166,7 +183,7 @@
 
 ---
 
-### 🍽️ 06 — ChatServe *(WhatsApp Restaurant Bot)*
+### 🍽️ 07 — ChatServe *(WhatsApp Restaurant Bot)*
 > **Intelligent restaurant assistant — handles orders, menus & payments directly on WhatsApp.**
 
 ```
@@ -178,7 +195,7 @@
 
 ---
 
-### 📩 07 — AI Email Automation Agent
+### 📩 08 — AI Email Automation Agent
 > **Classifies, routes, and auto-replies to Gmail messages using AI — zero manual effort.**
 
 ```
@@ -189,7 +206,7 @@
 
 ---
 
-### 🏢 08 — Professional HRMS *(Enterprise-Grade)*
+### 🏢 09 — Professional HRMS *(Enterprise-Grade)*
 > **Production-ready Human Resource Management System — built from scratch with modern stack.**
 
 ```
@@ -204,7 +221,7 @@
 
 ---
 
-### 🗣️ 09 — AI Urdu Chatbot *(OpenAI Agents SDK)*
+### 🗣️ 10 — AI Urdu Chatbot *(OpenAI Agents SDK)*
 > **Always replies in Urdu, with streaming responses and built-in conversation memory.**
 
 ```
@@ -215,7 +232,7 @@
 
 ---
 
-### 📦 10 — AI Inventory Management System
+### 📦 11 — AI Inventory Management System
 > **First AI agent project — automated inventory tracking with AI + Google Sheets integration.**
 
 ```
@@ -234,6 +251,16 @@
 |---|---|---|---|
 | **University of Management & Technology (UMT)** | BS Artificial Intelligence | Oct 2023 – Oct 2027 | AI, ML, Data Science |
 | **PIAIC — Presidential Initiative** | Cloud Generative AI Engineering | 2024 – Present | LLMs, Agentic AI, Cloud |
+
+</div>
+
+---
+
+## 🏆 Skill Trophies
+
+<div align="center">
+
+![Skill Trophies](https://raw.githubusercontent.com/shaheer9023/shaheer9023/main/trophies.svg)
 
 </div>
 
